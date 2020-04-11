@@ -1,0 +1,20 @@
+Version Control :
+What changed / who changed / why
+Examples : Subversion , Perforce , TFS, Git , & Mercurial
+1.) Peace of mind
+2.) istory
+3.) Undo easily
+4.) Experimentation
+5.) Synchronization
+6.) Accountability
+7.) Conflict detection
+
+Repository
+git init
+git add 
+
+git log -p
+git log --oneline --all
+
+
+
